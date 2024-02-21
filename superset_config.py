@@ -109,3 +109,9 @@ MAPBOX_API_KEY = env('MAPBOX_API_KEY')
 #   'origins': ['*'], # add the domains you want to enable or keep * to allow all domains. 
 #   # Add other options here as per your requirements
 # }
+
+LANGUAGES = {
+    'en': {'flag': 'us', 'name': 'English'},
+    'fr': {'flag': 'fr', 'name': 'French'},
+    'zh': {'flag': 'cn', 'name': 'Chinese'},
+}
