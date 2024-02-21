@@ -114,4 +114,5 @@ LANGUAGES = {
     'en': {'flag': 'us', 'name': 'English'},
     'fr': {'flag': 'fr', 'name': 'French'},
     'zh': {'flag': 'cn', 'name': 'Chinese'},
+    'it': {'flag': 'it', 'name': 'Italiano'},
 }
